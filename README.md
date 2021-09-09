@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwellmann&count_private=true&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwellmann&count_private=true&theme=prussian&show_icons=true)
 
 <!--
 ### Hi there 👋
