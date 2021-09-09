@@ -1,6 +1,5 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrwellmann&theme=prussian&show_icons=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwellmann&theme=prussian&langs_count=2&layout=compact" />
-
+![mrwellmann GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwellmann&theme=prussian&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwellmann&theme=prussian&langs_count=2&layout=compact)
 
 <!--
 ### Hi there 👋
