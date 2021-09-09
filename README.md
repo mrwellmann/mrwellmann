@@ -1,5 +1,5 @@
-[![mrwellmann GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwellmann&theme=prussian&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwellmann)]
+![mrwellmann GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwellmann&theme=prussian&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwellmann)
 
 
 <!--
