@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwellmann&theme=prussian&show_icons=true&count_private=true)
+[![mrwellmann GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwellmann&theme=prussian&show_icons=true&count_private=true)(https://github.com/mrwellmann/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwellmann)](https://github.com/mrwellmann/github-readme-stats)
+
 
 <!--
 ### Hi there 👋
